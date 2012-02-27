@@ -1,0 +1,3 @@
+Extension for CodeIgniter's default Model class that provides some basic CRUD-functionality, such as partial validations, automatically using POST data and clever where-clauses.
+
+Please note this is not actively maintained, but is currently used in production with CodeIgniter 2.0.
